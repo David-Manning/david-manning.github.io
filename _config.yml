@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: David's Blog
 
 # Your name to show in the footer
 author: David Manning
@@ -23,8 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://david-manning.github.io"
+    - Stan Forums: "https://discourse.mc-stan.org/"
+  Home: "https://david-manning.github.io"
+  
 
 ################
 # --- Logo --- #
