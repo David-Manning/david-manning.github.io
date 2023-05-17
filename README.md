@@ -1,24 +1,22 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
+### My Website
 
-# My Website
-
-> By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
+> Built with Beautiful Jekyll By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
 
 **Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com) to see it in use, or see [examples of websites](http://beautifuljekyll.com/examples) other people created using this theme.
 
-### 3. Customize your website settings
+### Global Website Settings
 
 Edit the `_config.yml` file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and there are comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (`#`) is a comment, and the other lines are actual settings.
 
 Note that in the video above only one setting in the `_config.yml` file is edited. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 
-# Add your own content
+### Add your own content
 
 Any markdown or HTML file that you create will be available on your website under `https://<yourusername>.github.io/<pagename>`. For example, if you create a file `about.md` (or `about.html`) then it'll exist at `https://<yourusername>.github.io/about`.
 
 Files you create inside the [`_posts`](./_posts) directory will be treated as blog entries. You can look at the existing files there to get an idea of how to write blog posts. Note the format of the blog post files - they must follow the naming convention of `YEAR-MONTH-DAY-title.md`. After you successfully add your own post, you can delete the existing files inside [`_posts`](./_posts) to remove the sample posts, as those are just demo posts to help you learn.
 
-# Customizing parameters for each page
+### Customizing parameters for each page
 
 **One last important thing**: In order to have your new pages use this template and not just be plain HTML pages, **you must add [YAML front matter](https://jekyllrb.com/docs/front-matter/) to the top of each page**:
 
@@ -41,7 +39,7 @@ If you don't want to use any parameters on a page, you still need to use the two
 
 You can look at the top of [`aboutme.md`](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/aboutme.md) as an example.
 
-# Supported parameters
+### Supported parameters
 
 Below is a list of the parameters that Beautiful Jekyll supports (any of these can be added to the YAML front matter of any page). Remember to also look in the `_config.yml` file to see additional site-wide settings.
 
@@ -58,7 +56,7 @@ cover-img   | Include a large full-width image at the top of the page. You can e
 thumbnail-img | For blog posts, if you want to add a thumbnail that will show up in the feed, use `thumbnail-img: /path/to/image`. If no thumbnail is provided, then `cover-img` will be used as the thumbnail. You can use `thumbnail-img: ""` to disable a thumbnail.
 comments    | If you want do add comments to a specific page, use `comments: true`. Comments only work if you enable one of the comments providers (Facebook, disqus, staticman, utterances, giscus, CommentBox) in `_config.yml` file. Comments are automatically enabled on blog posts but not on other pages; to turn comments off for a specific post, use `comments: false`.
 
-## Parameters for SEO and social media sharing
+### Parameters for SEO and social media sharing
 
 These parameters let you control what information shows up when a page is shown in a search engine (such as Google) or gets shared on social media (such as Twitter/Facebook).
 
@@ -68,7 +66,7 @@ share-title | A title for the page. If not provided, then `title` will be used, 
 share-description | A brief description of the page. If not provided, then `subtitle` will be used, and if that's missing then an excerpt from the page content is used.
 share-img   | The image to show. If not provided, then `cover-img` or `thumbnail-img` will be used if one of them is provided.
 
-## Less commonly used parameters
+### Less commonly used parameters
 
 These are parameters that you may not use often, but can come in handy sometimes.
 
@@ -83,7 +81,7 @@ gh-badge  | Select which GitHub buttons to display. Available options are: [star
 last-updated | If you want to show that a blog post was updated after it was originally released, you can specify an "Updated on" date.
 layout      | What type of page this is (default is `post` for blog posts and `page` for other pages). See _Page types_ section below for more information.
 
-## Advanced parameters
+### Advanced parameters
 
 These are advanced parameters that are only useful for people who need very fine control over their website.
 
@@ -100,7 +98,7 @@ ext-js      | List of external JavaScript files to include in the page (eg. `//c
 css         | List of local CSS files to include in the page
 ext-css      | List of external CSS files to include in the page. External CSS files using SRI (see `ext-js` parameter) are also supported.
 
-## Page types
+### Page types
 
 - **post** - To write a blog post, add a markdown or HTML file in the `_posts` folder. As long as you give it YAML front matter (the two lines of three dashes), it will automatically be rendered like a blog post. Look at the existing blog post files to see examples of how to use YAML parameters in blog posts.
 - **page** - Any page outside the `_posts` folder that uses YAML front matter will have a very similar style to blog posts.
@@ -108,7 +106,7 @@ ext-css      | List of external CSS files to include in the page. External CSS f
 - **minimal** - If you want to create a page with minimal styling (ie. without the bulky navigation bar and footer), assign `layout: minimal` to the YAML front matter.
 - If you want to completely bypass the template engine and just write your own HTML page, simply omit the YAML front matter. Only do this if you know how to write HTML!
 
-# Featured users (success stories!)
+### Featured users (success stories!)
 
 Visit the [Official website](http://beautifuljekyll.com/examples) to see sample websites using Beautiful Jekyll.
 
