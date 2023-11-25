@@ -24,7 +24,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Stan Forums: "https://discourse.mc-stan.org/"
-  Blogroll: "https://david-manning.github.io"
+  Blogroll: 
+    - Stat Modelling at Columbia: "https://statmodeling.stat.columbia.edu/"
   
 
 ################
@@ -267,7 +268,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
