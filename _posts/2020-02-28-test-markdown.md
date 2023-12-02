@@ -12,7 +12,19 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 **Here is some bold text**
 
+# Here is a primary heading
+
+hello
+
 ## Here is a secondary heading
+
+hello
+
+### Here is a tertiary heading
+
+hello
+
+#### Here is a fourth heading
 
 Here's a useless table:
 
