@@ -30,7 +30,7 @@ ggplot(data = df_perc, mapping = aes(x = x, y = y)) +
     theme_bw()
 ```
 
-![Graph1](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-05-04-ggplot2-axes/graph1.png)
+![Graph1](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-05-04-ggplot2-axes/graph1.png?raw=true)
 
 ## Correct behaviour
 
@@ -45,7 +45,7 @@ ggplot(data = df_perc, mapping = aes(x = x, y = y)) +
     theme_bw()
 ```
 
-![Graph2](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-05-04-ggplot2-axes/graph2.png)
+![Graph2](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-05-04-ggplot2-axes/graph2.png?raw=true)
 
 ## Fractions of a percent
 
@@ -59,4 +59,4 @@ ggplot(data = df_perc, mapping = aes(x = x2, y = y)) +
     theme_bw()
 ```
 
-![Graph3](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-05-04-ggplot2-axes/graph3.png)
+![Graph3](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-05-04-ggplot2-axes/graph3.png?raw=true)
