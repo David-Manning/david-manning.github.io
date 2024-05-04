@@ -30,7 +30,7 @@ ggplot(data = df_perc, mapping = aes(x = x, y = y)) +
     theme_bw()
 ```
 
-Graph
+![Graph1](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-05-04-ggplot2-axes/graph1.png)
 
 ## Correct behaviour
 
@@ -45,6 +45,8 @@ ggplot(data = df_perc, mapping = aes(x = x, y = y)) +
     theme_bw()
 ```
 
+![Graph2](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-05-04-ggplot2-axes/graph2.png)
+
 ## Fractions of a percent
 
 It works out the correct significant figures.
@@ -57,4 +59,4 @@ ggplot(data = df_perc, mapping = aes(x = x2, y = y)) +
     theme_bw()
 ```
 
-Graph
+![Graph3](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-05-04-ggplot2-axes/graph3.png)
