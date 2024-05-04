@@ -16,8 +16,8 @@ Let's start by generating some test data, `x`, `x2`, and `y` variables are all c
 ```
 set.seed(2024)
 df_perc <- data.frame(x = runif(n = 100),
-                      x2 = x / 1000,
                       y = rbeta(n = 100, shape1 = 7, shape2 = 10))
+df_perc$x2 <- df_perc$x / 1000
 ```
 
 ## Default behaviour
