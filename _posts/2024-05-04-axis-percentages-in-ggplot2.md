@@ -49,7 +49,7 @@ ggplot(data = df_perc, mapping = aes(x = x, y = y)) +
 
 ## Fractions of a percent
 
-It works out the correct significant figures.
+It also works out the correct significant figures, so we don't have to spend time getting the formatting right.
 ```
 ggplot(data = df_perc, mapping = aes(x = x2, y = y)) +
     geom_point() +
