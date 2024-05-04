@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Axis Percentages in ggplot2
-subtitle: Each post also has a subtitle
+subtitle: A quick code snip
 gh-repo: David-Manning/david-manning.github.io
 gh-badge: [star, fork, follow]
 tags: [code_snip, ggplot2, percentage, formatting, graph]
