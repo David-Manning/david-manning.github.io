@@ -12,7 +12,7 @@ Odds are just another way of writing probabilities, usually for betting purposes
 ## Fractional Odds
 Fractional odds are most widely used in the UK. They are shown as the profit you make if you win the bet, e.g. 5/1 means your potential profit will be 5 times the stake and 1/5 means your potential profit will be a fifth of your original stake. The stake is returned on top of the odds.
 
-To calculate the probability equivalent to fractional odds, calculate  $\frac{denominator}{denominator + numerator}$. In the odds 31/25, this gives us a probability of $frac{25}{31+25} = 0.45$.
+To calculate the probability equivalent to fractional odds, calculate denominator(denominator + numerator). In the odds 31/25, this gives us a probability of 25/31+25 = 0.45.
 To go the other way, take the decimal, add one, and turn it into a fraction. To get back to odds from the probability 45%, we get odds of 9/20+1= 29/20 (this is different only due to the error caused by rounding).
 
 ## Decimal Odds
@@ -23,7 +23,7 @@ To calculate the probability equivalent to the decimal odds, calculate the recip
 ## Fractional Odds to Decimal Odds
 
 To convert fractional odds into decimal, turn it into a decimal and add one - fractional odds of 31/25 become decimal odds of 31/25 + 1 = 2.24.
-To convert decimal odds into fractional, subtract one and turn it into a fraction - decimal odds of 2.2 become 1.2, which expressed as a fraction are 29/20.
+To convert decimal odds into fractional, subtract one and turn it into a fraction - decimal odds of 2.2 become 1.2, which expressed as a fraction are 29/20 (as before, this is a rounding error).
 
 ## Getting an Implied Probability
 
