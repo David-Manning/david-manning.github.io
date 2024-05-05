@@ -18,7 +18,7 @@ To go the other way, take the decimal, add one, and turn it into a fraction. To 
 ## Decimal Odds
 Decimal odds are used in mainland Europe, but are also easier to work with on a computer. They represent a multiple of the stake you get back if you win, or your total revenue and can be any number larger than 1.
 
-To calculate the probability equivalent to the decimal odds, calculate the reciprocal of the odds (and vice versa). A probability of 0.45 has decimal odds of $1 / 0.45 = 2.2$.
+To calculate the probability equivalent to the decimal odds, calculate the reciprocal of the odds (and vice versa). A probability of 0.45 has decimal odds of 1 / 0.45 = 2.2.
 
 ## Fractional Odds to Decimal Odds
 
