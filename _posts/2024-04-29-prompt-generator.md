@@ -7,11 +7,11 @@ tags: [prompt-engineering, llm, prompt-library, prompt-generator]
 comments: true
 ---
 
-This is my prompt generator. It turns a one line prompt into a TRACI prompt and adds in a few phrases that LLMs like to pick up on. It even fills in the gaps for you if your original prompt doesn't contain enough information and corrects vague language.
+This is my prompt generator. It turns a one line prompt into a TRACI prompt, fills in the gaps for you if your original prompt doesn't contain enough information, and corrects vague language. You will get a better quality output more quickly if you give it more information up front, but you do not have to carefully structure your thoughts. The prompt will **not** ask you to clarify anything and will go straight to what it thinks you wanted.
 
 To use it, paste this prompt into a new chat, enter your one line prompt and any key information at the bottom, and it will turn it into a detailed TRACI prompt. Make sure you check the output at the end because it may fill in the gaps in ways you didn't want and it doesn't add in things like penalising phrases or take a deep breath.
 
-Once you have started a chat with this prompt, you can follow up with something simple like `now do "think of a name for a new coffee shop"` and it will generate the prompt for your new one line prompt.
+Once you have started a chat with this prompt, you can use the chat to correct the details in the prompt or follow up with a new lazily written prompt like `now do "explain tort law"`.
 
 ```
 Your task:
