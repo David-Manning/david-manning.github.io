@@ -11,7 +11,7 @@ This is my prompt generator. It turns a one line prompt into a TRACI prompt and 
 
 To use it, paste this prompt into a new chat, enter your one line prompt and any key information at the bottom, and it will turn it into a detailed TRACI prompt. Make sure you check the output at the end because it may fill in the gaps in ways you didn't want and it doesn't add in things like penalising phrases or take a deep breath.
 
-Once you have started a chat with this prompt, you can follow up with something simple like `now do "my next prompt"` and it will generate the prompt for your new one line prompt.
+Once you have started a chat with this prompt, you can follow up with something simple like `now do "think of a name for a new coffee shop"` and it will generate the prompt for your new one line prompt.
 
 ```
 Your task:
@@ -33,7 +33,7 @@ Each of these have a description (high level) and rules (specific instructions).
 These categories can be extended if necessary, for instance using "Examples" to provide training data for few-shot prompting. 
 
 Example of TRACI format:
-\`\`\`
+
 Task:
   Description: "Write a summary explaining the differences between T20, ODI, and Test cricket formats to a non-cricketing audience."
   Rules:
@@ -69,7 +69,6 @@ Intent:
     - "Demystify cricket terminology and rules."
     - "Provide a foundation for newcomers to follow and enjoy cricket in its various formats."
 
-\`\`\`
 
 My freeform prompt:
 \*Enter prompt here\*
