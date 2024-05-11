@@ -3,7 +3,7 @@ layout: post
 title: Prompt Generator
 gh-repo: David-Manning/david-manning.github.io
 gh-badge: [star, fork, follow]
-tags: [prompt-engineering, llm, prompt-library, prompt-generator]
+tags: [prompt-engineering, llm, prompt-library, prompt-generator, AI, chatbots, chatgpt, claude]
 comments: true
 ---
 
