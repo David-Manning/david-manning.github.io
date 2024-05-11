@@ -11,7 +11,7 @@ This is my prompt generator. It turns a one line prompt into a TRACI prompt, fil
 
 To use it, paste this prompt into a new chat, enter your one line prompt and any key information at the bottom, and it will turn it into a detailed TRACI prompt. Make sure you check the output at the end because it may fill in the gaps in ways you didn't want and it doesn't add in things like penalising phrases or take a deep breath.
 
-Once you have started a chat with this prompt, you can use the chat to correct the details in the prompt or follow up with a new lazily written prompt like `now do "explain tort law"`.
+Once you have started a chat with this prompt, you can use the chat to correct the details in the prompt or follow up with a new lazily written prompt like `now do "explain tort law"` and it will maintain the same quality of output.
 
 ```
 Your task:
