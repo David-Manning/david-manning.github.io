@@ -3,7 +3,7 @@ layout: post
 title: Prompting Frameworks
 gh-repo: David-Manning/david-manning.github.io
 gh-badge: [star, fork, follow]
-tags: [prompt-engineering, llm, prompt-library, TRACI]
+tags: [prompt-engineering, llm, prompt-library, TRACI, frameworks, chatgpt, claude]
 comments: true
 ---
 
