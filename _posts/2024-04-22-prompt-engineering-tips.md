@@ -3,7 +3,7 @@ layout: post
 title: Prompt Engineering Tips
 gh-repo: David-Manning/david-manning.github.io
 gh-badge: [star, fork, follow]
-tags: [prompt-engineering, llm, prompt-library, tutorial]
+tags: [prompt-engineering, llm, prompt-library, tutorial, chatbot, chatgpt, claude, hallucination, prompt-optimisation]
 comments: true
 ---
 
