@@ -3,7 +3,7 @@ layout: post
 title: Odds vs Probabilities
 gh-repo: David-Manning/david-manning.github.io
 gh-badge: [star, fork, follow]
-tags: [primer, probabilities, odds, betting]
+tags: [primer, probabilities, odds, betting, probability, conversion, decimal odds, fractional odds]
 comments: true
 ---
 
