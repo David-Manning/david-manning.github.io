@@ -3,7 +3,7 @@ layout: post
 title: Weaning Britain off Domestic Flights
 gh-repo: David-Manning/david-manning.github.io
 gh-badge: [star, fork, follow]
-tags: [eda, climate, hs2, rail, trains, air, travel, transport, aviation, environment, carbon, emissions]
+tags: [eda, climate, hs2, rail, trains, air, travel, transport, aviation, environment, carbon, emissions, high speed rail]
 comments: true
 ---
 
