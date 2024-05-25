@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a Fixed Link to Ireland
+title: Digging a Tunnel to Ireland
 gh-repo: David-Manning/david-manning.github.io
 gh-badge: [star, fork, follow]
 tags: [eda, climate, hs2, rail, trains, air, travel, transport, aviation, environment, carbon, emissions, irish tunnel, irish rail, irish sea, infrastructure]
