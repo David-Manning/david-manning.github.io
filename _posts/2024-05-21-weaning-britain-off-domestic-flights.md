@@ -9,7 +9,7 @@ comments: true
 
 This post is aimed at looking at the impact that Britain copying France's policy banning short term flights might have. The policy in France states that no flights can be taken where train journeys of under two-and-a-half hours exist. This was originally planned to be a four hour limit but was watered down. Connecting flights are not affected by this policy, presumably because it would cause those passengers to have a layover in another country and not change anything in terms of emissions.
 
-The policy would have little effect on domestic flights under current circumstances, since only two major routes have train journeys of less than four hours, however connecting Scotland to London via a high speed rail network could have saved 877,000 tons of CO2 per year. There is potential for saving emissions on international train services, but extra capacity would need to be found.
+The policy would have little effect on domestic flights under current circumstances, since only two major routes have train journeys of less than four hours and only one under two-and-a-half hours.
 
 ## Flights to/from London
 For this, London airports are Heathrow, City, Gatwick, Biggin Hill, Lydd, Luton, Stansted and Southend.
