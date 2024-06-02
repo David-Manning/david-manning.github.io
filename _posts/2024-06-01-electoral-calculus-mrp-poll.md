@@ -42,11 +42,11 @@ It's also interesting that this change also pushes the Lib Dems back.
 |Other        |          1|           1|           1|           1|            1|
 
 Here is a graph of how this changes. I was not expecting this to be so linear, but it may be a symptom of MRP making assumptions about constituencies based on national polling.
-![img](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-reform-to-con.png?raw=true)
+![img](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-reform-to-con.png?raw=true)
 
 And here for how it affects the smaller parties.
 
-![img](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-reform-to-con-small-parties-only.png?raw=true)
+![img](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-reform-to-con-small-parties-only.png?raw=true)
 
 
 ## Scenario 2 - Labour to Greens
@@ -65,10 +65,10 @@ The Greens won't win extra seats this way but it also takes a lot to make a dent
 |Other        |          1|          1|          1|           2|           2|           2|
 
 Here is the graph:
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-labour-to-green.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-labour-to-green.png?raw=true)
 
 Here is the graph only showing the smaller parties. 
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-labour-to-green-small-parties-only.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-labour-to-green-small-parties-only.png?raw=true)
 
 
 ## Scenario 3 - Labour to the Conservatives
@@ -88,9 +88,9 @@ The thing that should worry Conservatives about this table is that by getting 10
 |Other        |          1|          1|          1|           2|           2|           2|           2|           2|
 
 Again, here are the graphs showing the impact overall and to the smaller parties. 
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-labour-to-conservative.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-labour-to-conservative.png?raw=true)
 
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-labour-to-conservative.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-labour-to-conservative.png?raw=true)
 
 
 ## Scenario 4 - Hope for the Conservatives
@@ -132,10 +132,10 @@ Remember, the only beneficiary in terms of votes in this model is Labour.
 |Other        |          1|          1|          1|           1|           1|           1|
 
 Here is the graph as before
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-con-to-labour.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-con-to-labour.png?raw=true)
 
 And here is the graph of small parties, now including the Conservatives.
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-con-to-labour-small-parties-only.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-con-to-labour-small-parties-only.png?raw=true)
 
 
 ## Scenario 6 - Conservative to Lib Dem
@@ -173,9 +173,9 @@ This is less damaging to the Conservatives, but gives Labour even more seats, an
 |Other        |          1|          1|          1|           1|           1|           1|           1|
 |Reform       |          0|          0|          0|           0|           0|           0|           1|
 
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-con-to-lib.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-con-to-reform.png?raw=true)
 
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-con-to-lib.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-con-to-reform.png?raw=true)
 
 
 ## Summary
