@@ -42,11 +42,11 @@ It's also interesting that this change also pushes the Lib Dems back.
 |Other        |          1|           1|           1|           1|            1|
 
 Here is a graph of how this changes. I was not expecting this to be so linear, but it may be a symptom of MRP making assumptions about constituencies based on national polling.
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-reform-to-con.png?raw=true)
+![img](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-reform-to-con.png?raw=true)
 
 And here for how it affects the smaller parties.
 
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-reform-to-con-small-parties-only.png?raw=true)
+![img](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-reform-to-con-small-parties-only.png?raw=true)
 
 
 ## Scenario 2 - Labour to Greens
