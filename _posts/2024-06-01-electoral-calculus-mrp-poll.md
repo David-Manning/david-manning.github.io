@@ -154,9 +154,9 @@ It hurts the Conservatives much less than going to Labour, but Labour are the ma
 |Green        |          2|          2|          2|           2|           2|           2|
 |Other        |          1|          1|          1|           1|           1|           1|
 
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-con-to-lib.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-con-to-lib.png?raw=true)
 
-![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01/2024-06-01-con-to-lib-small-parties-only.png?raw=true)
+![GraphCon](https://github.com/David-Manning/david-manning.github.io/blob/master/images/2024-06-01-electoral-calculus-mrp-poll/2024-06-01-con-to-lib-small-parties-only.png?raw=true)
 
 ## Scenario 7 - Conservative to Reform
 Finally, what happens if Reform take more votes from the Conservatives?
