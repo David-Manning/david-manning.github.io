@@ -7,11 +7,17 @@ tags: [prompt-engineering, llm, prompt-library, AI, chatbots, chatgpt, claude, j
 comments: true
 ---
 
-I use this prompt to summarise online tables (e.g. from Wikipedia) into JSON format. These tables can be poorly structured or formatted, but the LLM will return a valid JSON. On Anthropic's interactive website, this prompt works best on Claude 3 Haiku as the accuracy is good and it has the fastest speed.
+I use this prompt to summarise online tables (e.g. from Wikipedia) into JSON format. These tables can be poorly structured or formatted, but the LLM will return a valid JSON so the table can be used in an analysis. 
 
-I have found that LLMs are quite poor at generating CSV files and JSON is more reliable. For information on how to load JSON files, see [this](https://github.com/David-Manning/david-manning.github.io/blob/master/_posts/2024-07-01-loading-and-saving-different-data-types.md) post.
+Some notes:
 
-Very large tables might only be partially included, in this case, typing "continue" will make it finish, redoing the row it ended on. They will need to be manually merged together.
+* It is important to specify the elements you want as this may be interpreted differently for different entries e.g. the Green Party of England and Wales have co-leaders rather than single leaders, and this will cause a mismatch between different parties that make it hard to join when you come to use it.
+* In principle, this should work for CSV output however Ihave found that LLMs are quite poor at generating CSV files and JSON is more reliable. For information on how to load JSON files, see [this](https://github.com/David-Manning/david-manning.github.io/blob/master/_posts/2024-07-01-loading-and-saving-different-data-types.md) post.
+* Very large tables might only be partially included, in this case, typing "continue" will make it finish, redoing the row it ended on. They will need to be manually merged together.
+* You may have some rows or columns that you don't need e.g. totals or percentages that you can work out later - include these in the relevant lists.
+* This usually works out rows and columns for itself even if the table is printed in one line but it is best to check it.
+* This can be used in the same chat by copying and pasting a new table without comment.
+* This works well with fast models like Claude 3 Haiku. As long as it copies the text accurately, use the fastest/cheapest one available.
 
 ```
 Task:
