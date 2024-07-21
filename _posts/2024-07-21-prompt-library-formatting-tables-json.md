@@ -12,7 +12,7 @@ I use this prompt to summarise online tables (e.g. from Wikipedia) into JSON for
 Some notes:
 
 * It is important to specify the elements you want as this may be interpreted differently for different entries e.g. the Green Party of England and Wales have co-leaders rather than single leaders, and this will cause a mismatch between different parties that make it hard to join when you come to use it.
-* In principle, this should work for CSV output however Ihave found that LLMs are quite poor at generating CSV files and JSON is more reliable. For information on how to load JSON files, see [this](https://github.com/David-Manning/david-manning.github.io/blob/master/_posts/2024-07-01-loading-and-saving-different-data-types.md) post.
+* In principle, this should work for CSV output however I have found that LLMs are quite poor at generating CSV files and JSON is more reliable. For information on how to load JSON files, see [this](https://github.com/David-Manning/david-manning.github.io/blob/master/_posts/2024-07-01-loading-and-saving-different-data-types.md) post.
 * Very large tables might only be partially included, in this case, typing "continue" will make it finish, redoing the row it ended on. They will need to be manually merged together.
 * You may have some rows or columns that you don't need e.g. totals or percentages that you can work out later - include these in the relevant lists.
 * This usually works out rows and columns for itself even if the table is printed in one line but it is best to check it.
