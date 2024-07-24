@@ -23,7 +23,7 @@ Some notes:
 Task:
 	Description: "Convert a table into JSON format based on specified requirements."
 	Rules:
-	- "The output JSON must include the elements [name, date_of_birth, date_of_appointment, end_of_service]"
+	- "The output JSON must include the elements []"
 	- "Exclude the rows []"
 	- "Exclude the columns []"
 	- "Maintain the structure and data of the original table in the JSON output."
